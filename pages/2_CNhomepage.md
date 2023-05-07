@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 陈芝漩
+title: 郑凯
 comments: true
 permalink: /CNhomepage/
 ---
@@ -52,26 +52,13 @@ function toggleBibtex(articleid) {
 ​	
 ### 个人简介
 
-| <br>**Zhi-Xuan Chen（陈芝漩）**目前是一名就读于 <a href="https://www.uestc.edu.cn/">电子科技大学 (UESTC)</a>，[ 光电科学与工程学院 (College of Optoelectronic Science and Engineering)](https://sose.uestc.edu.cn/index.htm/) 的大三本科生，专业方向为光电信息科学与工程，由<a href="https://liangjiandeng.github.io/" > 邓良剑研究员</a>指导。他将前往<a href="https://hkust.edu.hk/zh-hans/home">香港科技大学 (HKUST)</a>，<a href="https://cse.hkust.edu.hk/">计算机科学与工程系(Department of Computer Science and Engineering)</a> 继续攻读他的博士学位。他的研究兴趣包括机器视觉、深度学习，现在他的研究方向主要是人工智能医学图像分析。 <br> <br> **电子邮箱:** <zhixuan_chen2022@163.com> <br> **关注我:** [Goolge Scholar](https://github.com/zhi-xuan-chen)&emsp;&emsp; [Github](https://github.com/zhi-xuan-chen) <br><br>| &emsp;<img src="http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg" width='1200'>&emsp; |
+| <br>**Kai Zheng（郑凯）**目前是一名就读于 <a href="https://www.uestc.edu.cn/">电子科技大学 (UESTC)</a>，[ 光电科学与工程学院 (College of Optoelectronic Science and Engineering)](https://sose.uestc.edu.cn/index.htm/) 的大三本科生，专业方向为信息工程，由吴援明教授指导。他对物联网和机器学习非常感兴趣。他目前的研究重点是无线传感器网络中的恶意攻击检测。他对事件驱动的无线传感器网络、路由算法等也有一点了解。他计划在2024年秋天开始他的博士课程，所以他正在寻找一位研究物联网相关方向的教授。 <br> <br> **电子邮箱:** <2020050908027@std.uestc.edu.cn> <br> <br>| &emsp;<img src="http://AiaIKai.github.io/KaiZheng.jpg" width='1600'>&emsp; |
 
 ### 发表文章
 
 **已接收**
 
-* **Zhi-Xuan Chen**, Cheng Jin, Tian-Jing Zhang, Xiao Wu, Liang-Jian Deng*. *SpanConv: A New Convolution via Spanning Kernel Space for Lightweight Pansharpening*. **IJCAI-ECAI**, 2022, **Long Oral Acceptance (3.75%)**. [[Project Page](https://github.com/zhi-xuan-chen/IJCAI-2022_SpanConv)] [[PDF]()] <a href="javascript:toggleBibtex('Hutnnls')" class="textlink">[BibTeX]</a>
-
-<div id="bib_Hutnnls" class="BibTeX noshow">
-<pre>
-@article{SpanConv,
-author = {Zhi-Xuan Chen, Cheng Jin, Tian-Jing Zhang, Xiao Wu, and Liang-Jian Deng},
-title = {SpanConv: A New Convolution via Spanning Kernel Space for Lightweight Pansharpening},
-conference = {International Joint Conferences on Artificial Intelligence (IJCAI)},
-volume = {},
-pages = {},
-year = {2022},
-}
-</pre>
-</div>
+---
 
 **审稿中**
 
@@ -80,7 +67,7 @@ year = {2022},
 ### 个人经历 
 
 
-* 09/2019-06/2023: 于电子科技大学（UESTC）攻读光电信息科学学士
+* 09/2020-06/2024: 于电子科技大学（UESTC）攻读信息工程学士
 
 ---
 
