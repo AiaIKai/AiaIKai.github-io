@@ -49,7 +49,7 @@ function toggleBibtex(articleid) {
 ​	
 ### Biography
 
-| <br>**Kai Zheng（郑凯）** is a junior student majoring in Information Engineering in [College of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/index.htm/), <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China(UESTC)</a>, supervised by Prof. Yuanming Wu</a>. I'm broadly interested in IoT and machine learning. My current research focuses on malicious attack detection in wireless sensor networks. I also have a slight understanding of event driven wireless sensor network networking, routing algorithms, etc. I plan to start my PhD program in fall of 2024, so I'm looking for a professor who studies directions related to the Internet of Things. <br> <br> **Email:** <2020050908027@std.uestc.edu.cn> <br> **Follow Me:** [Goolge Scholar](https://github.com/zhi-xuan-chen)&emsp;&emsp; [Github](https://github.com/zhi-xuan-chen) <br><br>| &emsp;<img src="http://zhi-xuan-chen.github.io/images/zhixuan-chen.jpg" width='1600'>&emsp; |
+| <br>**Kai Zheng（郑凯）** is a junior student majoring in Information Engineering in [College of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/index.htm/), <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China(UESTC)</a>, supervised by Prof. Yuanming Wu. I'm broadly interested in IoT and machine learning. My current research focuses on malicious attack detection in wireless sensor networks. I also have a slight understanding of event driven wireless sensor network networking, routing algorithms, etc. I plan to start my PhD program in fall of 2024, so I'm looking for a professor who studies directions related to the Internet of Things. <br> <br> **Email:** <2020050908027@std.uestc.edu.cn> <br> **Follow Me:** [Github](https://github.com/AiaIKai) <br><br>| &emsp;<img src="http://AiaIKai.github.io/KaiZheng.jpg" width='1600'>&emsp; |
 
 
 
@@ -89,7 +89,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-For more information, please refer to my <a href="http://zhi-xuan-chen.github.io/cv.pdf">resumé</a>（<a href="http://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>）.
+For more information, please refer to my <a href="http://zhi-xuan-chen.github.io/cv.pdf">resume</a>（<a href="http://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>）.
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
