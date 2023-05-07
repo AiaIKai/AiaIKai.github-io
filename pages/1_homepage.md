@@ -61,7 +61,7 @@ function toggleBibtex(articleid) {
 
 **Under Review**
 
-* **Kai Zheng**, Yilun Ma, Yuanming Wu*. *GAN-based Detection Scheme Against Selective Forwarding Attacks in Wireless Sensor Networks*. **IEEE Sensors Journal(JCR Q1)**
+* **Kai Zheng**, Yilun Ma, Yuanming Wu. GAN-based Detection Scheme Against Selective Forwarding Attacks in Wireless Sensor Networks. ***IEEE Sensors Journal(JCR Q1)***
 
 
 ### Experiences 
