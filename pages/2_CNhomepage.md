@@ -90,7 +90,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-若想要了解更多信息，请参考我的<a href="https://zhi-xuan-chen.github.io/CN_CV.pdf">简历</a>（<a href="https://zhi-xuan-chen.github.io/cv.pdf">resumé</a>）。
+若想要了解更多信息，请参考我的<a href="http://AiaIKai.github.io/CV_CN.odf">简历</a>。
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=573geowbknl&amp;m=7&amp;c=ffc000&amp;cr1=ffffff&amp;f=arial&amp;l=1&amp;s=170&amp;bv=70" async="async"></script>
 
