@@ -77,7 +77,6 @@ function toggleBibtex(articleid) {
 * Outstanding Students’ Scholarship of UESTC, 2021 and 2022
 * Second Prize in Sichuan Province, _Challenge Cup Science and Technology Innovation Competition_, 2021
 * Excellent conclusion of Projects for the Undergraduate’s Innovation and Entrepreneurship of UESTC, 2022
-* Third Prize in China, _China Undergraduate Optoelectronic Design Competition_, 2020
 * Multiple Outstanding Student Job Awards, covering various aspects such as psychological work, guidance for new students, and social volunteer activities
 
 ---
