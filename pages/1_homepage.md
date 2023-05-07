@@ -49,7 +49,7 @@ function toggleBibtex(articleid) {
 ​	
 ### Biography
 
-| <br>**Kai Zheng（郑凯）** is a junior student majoring in Information Engineering in [College of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/index.htm/), <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China(UESTC)</a>, supervised by Prof. Yuanming Wu. I'm broadly interested in IoT and machine learning. His current research focuses on malicious attack detection in wireless sensor networks. He also has a slight understanding of event driven wireless sensor network networking, routing algorithms, etc. He plans to start his PhD program in fall of 2024, so he is looking for a professor who studies directions related to the Internet of Things. <br> <br> **Email:** <2020050908027@std.uestc.edu.cn> <br> <br>| &emsp;<img src="http://AiaIKai.github.io/KaiZheng.jpg" width='1600'>&emsp; |
+| <br>**Kai Zheng** is a junior student majoring in Information Engineering in [College of Optoelectronic Science and Engineering](https://sose.uestc.edu.cn/index.htm/), <a href="https://www.uestc.edu.cn/">University of Electronic Science and Technology of China(UESTC)</a>, supervised by Prof. Yuanming Wu. I'm broadly interested in IoT and machine learning. His current research focuses on malicious attack detection in wireless sensor networks. He also has a slight understanding of event driven wireless sensor network networking, routing algorithms, etc. He plans to start his PhD program in fall of 2024, so he is looking for a professor who studies directions related to the Internet of Things. <br> <br> **Email:** <2020050908027@std.uestc.edu.cn> <br> <br>| &emsp;<img src="http://AiaIKai.github.io/KaiZheng.jpg" width='1600'>&emsp; |
 
 
 
