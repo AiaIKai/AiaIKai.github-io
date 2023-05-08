@@ -84,7 +84,7 @@ function toggleBibtex(articleid) {
 
 ---
 
-### 学术活动
+### 科研经历
 
 * 参与电子科技大学本科生创新创业项目并取得优异成绩
 
