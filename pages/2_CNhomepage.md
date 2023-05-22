@@ -52,7 +52,7 @@ function toggleBibtex(articleid) {
 ​	
 ### 个人简介
 
-| <br>**Kai Zheng（郑凯）**目前是一名就读于 <a href="https://www.uestc.edu.cn/">电子科技大学 (UESTC)</a>，[ 光电科学与工程学院 (College of Optoelectronic Science and Engineering)](https://sose.uestc.edu.cn/index.htm/) 的大三本科生，专业方向为信息工程，由吴援明教授指导。他对物联网和机器学习非常感兴趣。他目前的研究重点是无线传感器网络中的恶意攻击检测。他对机器学期和神经网络也有一点了解。他计划在2024年秋天开始他的博士课程，所以他正在寻找一位研究物联网或人工智能方向的教授。 <br> <br> **电子邮箱:** <2020050908027@std.uestc.edu.cn> <br> <br>| &emsp;<img src="http://AiaIKai.github.io/KaiZheng.jpg" width='1200'>&emsp; |
+| <br>**Kai Zheng（郑凯）**目前是一名就读于 <a href="https://www.uestc.edu.cn/">电子科技大学 (UESTC)</a>，[ 光电科学与工程学院 (College of Optoelectronic Science and Engineering)](https://sose.uestc.edu.cn/index.htm/) 的大三本科生，专业方向为信息工程，由吴援明教授指导。他对物联网和机器学习非常感兴趣。他目前的研究重点是无线传感器网络中的恶意攻击检测。他对机器学习和神经网络也有一点了解。他计划在2024年秋天开始他的博士课程，所以他正在寻找一位研究物联网或人工智能方向的教授。 <br> <br> **电子邮箱:** <2020050908027@std.uestc.edu.cn> <br> <br>| &emsp;<img src="http://AiaIKai.github.io/KaiZheng.jpg" width='1200'>&emsp; |
 
 ### 发表文章
 
